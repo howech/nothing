@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: noch
+Version: 0.0.1
+Summary: howech's do nothing package
+Home-page: https://github.com/howech/nothing
+Author: howech  
+Author-email: chris@howeville.com
+License: UNKNOWN
+Description: 
+        # NoCh
+        
+        howech's do nothing python package. It's all wrapper and no gum.
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 2
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown

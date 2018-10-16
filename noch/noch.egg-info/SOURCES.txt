@@ -1,0 +1,6 @@
+README.md
+setup.py
+noch.egg-info/PKG-INFO
+noch.egg-info/SOURCES.txt
+noch.egg-info/dependency_links.txt
+noch.egg-info/top_level.txt
