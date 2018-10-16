@@ -1,3 +1,3 @@
 def nothing():
-    return 'Well, almost nothing."
+    return 'Well, almost nothing.'
 
